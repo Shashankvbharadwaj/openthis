@@ -38,13 +38,13 @@ body {
 }
 
 .one {
-  font-size: 4rem;
+  font-size: 4.5rem;
 }
 
 .one > img {
   vertical-align: middle;
   margin-bottom: 10px;
-  max-width: 100%;
+  max-width: 90%;
   height: auto;
 }
 
